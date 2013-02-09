@@ -321,7 +321,7 @@ footer {
   float:left;
   position:fixed;
   bottom:10px;
-	padding-left: 50px;
+  padding-left: 50px;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -337,11 +337,11 @@ footer {
     width:auto;
   }
 
-	footer {
-		border-top: 1px solid #ccc;
-		margin:0 84px 0 50px;
-		padding:0;
-	}
+  footer {
+    border-top: 1px solid #ccc;
+    margin:0 84px 0 50px;
+    padding:0;
+  }
   
   header {
     padding-right:320px;
@@ -370,17 +370,17 @@ footer {
   
   header {
     padding:10px 20px 0;
-		margin-right: 0;
+    margin-right: 0;
   }
 
-	section {
+  section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
   }
 
-	footer {		
-		margin: 0 0 0 30px;
-	}
+  footer {    
+    margin: 0 0 0 30px;
+  }
   
   header ul, header p.view {
     position:static;
@@ -393,13 +393,13 @@ footer {
     display:none;
   }
 
-	footer {		
-		margin: 0 0 0 20px;
-	}
-	
-	footer a{
-		display:block;
-	}
+  footer {    
+    margin: 0 0 0 20px;
+  }
+  
+  footer a{
+    display:block;
+  }
 
 }
 
